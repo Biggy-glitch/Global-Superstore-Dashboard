@@ -4,11 +4,24 @@
 
 ---
 
-## 🛠️ Tools & Skills
-- **Power BI** – Dashboard development, storytelling, interactive reports
-- **Excel** – Advanced formulas, Pivot Tables, What-If analysis
-- **SQL** – Data extraction, joins, aggregations, subqueries (Intermediate)
-- **Python** – Data cleaning, basic analysis (Beginner)
+# 📊 Global Superstore Sales Dashboard
+
+This Power BI dashboard analyzes sales and profitability across regions and categories using the Global Superstore dataset. It helps identify key business drivers.
+
+## 📌 Objective
+- Identify top-performing regions, segments, and product categories.
+- Track KPIs: Revenue, Profit, Quantity.
+- Compare monthly and yearly sales trends.
+
+## 🛠 Tools Used
+- Power BI
+- DAX
+- Kaggle Global Superstore dataset
+
+## 📈 Key Insights
+- West region leads in profitability.
+- Technology segment drives most revenue.
+- Profit margins vary widely by category.
 
 ---
 
